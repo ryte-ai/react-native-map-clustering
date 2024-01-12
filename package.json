@@ -9,7 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/venits/react-native-map-clustering.git"
+    "url": "git+https://github.com/ryte-ai/react-native-map-clustering.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "keywords": [
     "react-native",
